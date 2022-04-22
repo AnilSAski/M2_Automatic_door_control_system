@@ -4,11 +4,11 @@ The automatic door opening systems are used in commercial buildings, shopping ma
 Today automatic doors are a common sight. they are installed in Malls. Hotels.Hospitals. Commercial Establislhments. Banks. Office spaces.Post Offices.Garages.Rail Cars. Perimeter fencingBesidesbeing convenient to use. there are many other advantages as emmerated below:
 ### Advantages 
 - Automatic doors provide hands free operations. hence they provide unparalleled access for elderly. divyang(handicapped) and those with small children.
-- Automatic doors don't necessitate any hunman effort or force to performtheir operation. It helps do away from the struggleand aggravations when it comes to opening a relatively heavier manual door.
+- Automatic doors don't necessitate any human effort or force to perform their operation. It helps do away from the struggle and aggravations when it comes to opening a relatively heavier manual door.
 - They are helpful for people carryng heavy packages, luggage or children.
 - Automatic doors grant you the option to open the door manually as well. 
-- Automatic doors are safe and proVide convenient access they automatically stop closing if someone enters while the door is closing thereby ensuring safety and ecurity of personnel 
-- Automatic doors by virtue of beng automatic always close completelyand properly.thereby ensuring safety from potential intruders (there are no accidental opened doors). This also means that one does not need to have additional locks or security systems un place to keep out or deter burglars and thieves from entering premises.
+- Automatic doors are safe and provide convenient access they automatically stop closing if someone enters while the door is closing thereby ensuring safety and security of personnel 
+- Automatic doors by virtue of beng automatic always close completely and properly.thereby ensuring safety from potential intruders (there are no accidental opened doors). This also means that one does not need to have additional locks or security systems un place to keep out or deter burglars and thieves from entering premises.
 - The Automatic doors can also be accessed via a remote control from the outside.
 - Automatic doors are easy to operate. They are quite sturdy and require minimal maintenance requirements. 
 - Automatic doors also help conserve energy as they open only when passing-by traffic is near, andf close spontaneously. automatic doors thus easily conserve temperature inside premises. Thus. saving-up on electrieity costs.
