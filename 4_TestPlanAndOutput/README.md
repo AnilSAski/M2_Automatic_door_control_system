@@ -14,4 +14,5 @@
 
 
 # Output
-![simulation](https://github.com/AnilSAski/M2_Automatic_door_control_system/blob/main/3_Implementation/simulation/close.PNG)
+![simulation 1](https://github.com/AnilSAski/M2_Automatic_door_control_system/blob/main/3_Implementation/simulation/close.PNG)
+![simulation 2](https://github.com/AnilSAski/M2_Automatic_door_control_system/blob/main/3_Implementation/simulation/open.PNG)
