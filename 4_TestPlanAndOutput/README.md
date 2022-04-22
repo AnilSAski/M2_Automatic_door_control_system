@@ -11,3 +11,7 @@
 |---|---|---|---|---|---|
 1|pin B1|logic 1|5v|5v|close
 2|pin B1|logic 0|0v|0v|open
+
+
+# Output
+![simulation](https://github.com/AnilSAski/M2_Automatic_door_control_system/blob/main/3_Implementation/simulation/close.PNG)
