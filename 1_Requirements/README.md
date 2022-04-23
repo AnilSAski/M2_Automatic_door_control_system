@@ -14,20 +14,20 @@
 
 ### High Level Requirements
 | ID | Description | Status
-| -- | -- |
+| -- | -- | --|
 HLR 1|It shall control automatic close and open of the door.| IMPLEMENTED
 HLR 2|Linux OS| IMPLEMENTED
 HLR 3|Windows OS| IMPLEMENTED
 HLR 4|c progarmming| IMPLEMENTED
 HLR 5|RAM 4GB or higher| IMPLEMENTED
-HLR 2|Minimum 250GB Hard disk| IMPLEMENTED
+HLR 6|Minimum 250GB Hard disk| IMPLEMENTED
 
 ### Low Level Requirements
-ATmega328
-Fixed Voltage Source-5V
-Switch as door Sensor
-Resistor-100KΩ
-LED
+- ATmega328
+- Fixed Voltage Source-5V
+- Switch as door Sensor
+- Resistor-100KΩ
+- LED
 
 ## ATmega328
 ![ATmega328](https://github.com/AnilSAski/M2_Automatic_door_control_system/blob/main/1_Requirements/ATmega328-Pinout.png)
